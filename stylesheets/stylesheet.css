@@ -11,3 +11,8 @@ body {
   color: #339999;
   background-color: #000000;
 }
+
+.page-header, .main-content {
+  margin: 100;
+  float: center;
+}
