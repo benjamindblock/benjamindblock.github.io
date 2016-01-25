@@ -30,16 +30,3 @@ p{
   width: 600px;
   display: inline-block;
 }
-
-/** CUSTOM STYLES FOR MIXLR EMBED */
-.broadcast_info{
-  background-color: #1A1B1C;
-}
-
-.user_info{
-  font-color: #00cccc;
-}
-
-.comments_bar{
-  background-color: #1A1B1C;
-}
