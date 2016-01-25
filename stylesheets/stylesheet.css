@@ -21,4 +21,5 @@ h1{
 
 p{
   width: 600px;
+  display: inline-block;
 }
