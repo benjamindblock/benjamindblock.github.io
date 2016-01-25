@@ -14,3 +14,7 @@ body {
 .page-header, .main-content {
   text-align: center;
 }
+
+h1{
+  font-weight: lighter;
+}
