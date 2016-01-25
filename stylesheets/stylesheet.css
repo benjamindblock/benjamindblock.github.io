@@ -13,7 +13,5 @@ body {
 }
 
 .page-header, .main-content {
-  width: 800px;
-  margin: 50px;
   text-align: center;
 }
