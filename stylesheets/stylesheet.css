@@ -8,6 +8,8 @@ body {
   font-size: 12px;
   font-style: normal;
   font-variant: normal;
-  font-weight: 300;
+  font-weight: 50;
   line-height: 26.4px;
+  font-color: #339999
+  background-color: #000000;
 }
