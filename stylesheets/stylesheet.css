@@ -10,6 +10,10 @@ body {
   background-color: #000000;
 }
 
+pre{
+  color: #33ccff;
+}
+
 .page-header, .main-content {
   text-align: center;
 }
