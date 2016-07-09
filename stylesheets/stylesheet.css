@@ -42,8 +42,8 @@ p{
 img {
     height: auto; 
     width: auto; 
-    max-width: 300; 
-    max-height: 300;
+    max-width: 500px; 
+    max-height: 500px;
     display: block;
     margin: 0 auto;
 }
