@@ -19,7 +19,7 @@ a{
 }
 
 .page-header, .main-content {
-  text-align: center;
+  text-align: left;
 }
 
 .clear {
@@ -48,14 +48,14 @@ img {
     margin: 0 auto;
 }
 iframe {
-    margin: 0 auto;
+
     background-color: #FFFFFF;
     display: block;
 }
 
 audio {
     width: 300px;
-    margin: 0 auto;
+
     background-color: #777;
     display: block;
 }
