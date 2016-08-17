@@ -54,6 +54,7 @@ iframe {
 }
 
 audio {
+    width: 300px;
     margin: 0 auto;
     background-color: #777;
     display: block;
