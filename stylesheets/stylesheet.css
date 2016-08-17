@@ -52,3 +52,9 @@ iframe {
     background-color: #777;
     display: block;
 }
+
+audio {
+    margin: 0 auto;
+    background-color: #777;
+    display: block;
+}
