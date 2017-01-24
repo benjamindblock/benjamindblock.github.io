@@ -19,7 +19,7 @@ a{
 }
 
 .chat {
-  float:right;
+  float:left;
 }
 
 .page-header, .main-content {
@@ -55,6 +55,7 @@ iframe {
 
     background-color: #FFFFFF;
     display: block;
+    float: left;
 }
 
 audio {
