@@ -63,3 +63,11 @@ audio {
     background-color: #777;
     display: block;
 }
+
+.message-window {
+  background-color: grey; 
+}
+
+.input-field {
+  background-color: grey;
+}
